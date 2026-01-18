@@ -1,4 +1,7 @@
 # <img width="251" alt="logo-row" src="https://github.com/iconalaa/Repo_3A56_Invictus_Pi3/assets/101057048/c271752e-2bca-4cd1-aeca-92861c3f39bc">
+
+<img width="1544" height="740" alt="vlo" src="https://github.com/user-attachments/assets/ac9a8150-c81c-4bb1-9a91-62db48bbe929" />
+
 # Problematic
 Medical image sharing has become crucial in healthcare for enhanced diagnosis and disease management. This practice facilitates collaboration among healthcare professionals, leading to improved patient care and accurate diagnosis. Secure and efficient platforms enable remote and real-time access to medical information, revolutionizing professional collaboration and ultimately improving health outcomes for patients.
 
